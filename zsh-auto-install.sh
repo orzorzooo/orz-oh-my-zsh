@@ -17,4 +17,4 @@ curl -o agnoster.zsh-theme https://raw.githubusercontent.com/orzorzooo/orz-oh-my
 cd ~/.oh-my-zsh
 curl -o zshrc https://raw.githubusercontent.com/orzorzooo/orz-oh-my-zsh/master/zshrc 
 rm ~/.zshrc
-ln -s zshrc ~/.zshrc
+ln zshrc ~/.zshrc
