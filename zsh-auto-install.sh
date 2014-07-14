@@ -15,6 +15,6 @@ curl -o agnoster.zsh-theme https://raw.githubusercontent.com/orzorzooo/orz-oh-my
 
 #設定.zshrc 捷徑
 cd ~/.oh-my-zsh
-crul -o zshrc https://raw.githubusercontent.com/orzorzooo/orz-oh-my-zsh/master/zshrc 
+curl -o zshrc https://raw.githubusercontent.com/orzorzooo/orz-oh-my-zsh/master/zshrc 
 rm ~/.zshrc
 ln -s zshrc ~/.zshrc
