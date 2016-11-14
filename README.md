@@ -6,7 +6,7 @@
 
 ### iTerm2
 
-* 強烈建議先安裝 [iterm2](http://www.iterm2.com/downloads/stable/iTerm2_v1_0_0.zip)
+* 強烈建議先安裝 [iterm2](https://iterm2.com/downloads/stable/iTerm2-3_0_10.zip)
 
 * 在[iterm2colorschemes.com](http://iterm2colorschemes.com)挑一個好看的色彩配置
  
